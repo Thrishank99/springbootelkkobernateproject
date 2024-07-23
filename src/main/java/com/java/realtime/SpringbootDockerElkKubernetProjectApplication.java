@@ -17,6 +17,7 @@ public class SpringbootDockerElkKubernetProjectApplication extends SpringBootSer
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootDockerElkKubernetProjectApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
